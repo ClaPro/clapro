@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: [https://clapro.github.io/](https://clapro.github.io/)
-- 🌱 I’m currently learning ReactJS, VueJs
+- 🌱 I’m currently learning React
